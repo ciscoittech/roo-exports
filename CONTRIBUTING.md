@@ -315,7 +315,7 @@ examples/
 
 ## 🐛 Reporting Issues
 
-Use [GitHub Issues](https://github.com/yourusername/roocode-modes/issues) to report:
+Use [GitHub Issues](https://github.com/bhuntsman/roo-crew/issues) to report:
 
 - Bugs in modes
 - Documentation errors

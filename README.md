@@ -2,7 +2,7 @@
 
 > **22 production-ready custom modes for [Roo Code](https://roocode.com)** - Transform your AI assistant into a team of specialized agents for full-stack development, test-driven development workflows, and comprehensive design review automation.
 
-[![Modes](https://img.shields.io/badge/modes-22-blue.svg)](https://github.com/yourusername/roocode-modes)
+[![Modes](https://img.shields.io/badge/modes-22-blue.svg)](https://github.com/bhuntsman/roo-crew)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Roo Code](https://img.shields.io/badge/Roo_Code-Compatible-green.svg)](https://roocode.com)
 
@@ -230,8 +230,8 @@ Designed for use with [Roo Code](https://roocode.com) by [Roo Cline](https://git
 ## 📞 Support
 
 - **Documentation:** [docs/](./docs/)
-- **Issues:** [GitHub Issues](https://github.com/yourusername/roocode-modes/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/roocode-modes/discussions)
+- **Issues:** [GitHub Issues](https://github.com/bhuntsman/roo-crew/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/bhuntsman/roo-crew/discussions)
 
 ---
 
